@@ -1,2 +1,2 @@
-# A-food-website
+# eatfood.github.io
 A food website built with html, css and bootstrap to allow customer view price of food and make order.
